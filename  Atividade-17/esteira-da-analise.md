@@ -35,16 +35,16 @@
 
 ## Relacionamento entre casos de uso (nível A)
 
-- Tipo: «include» ou «extend»
-- Entre: ______ e ______
-- Por que é esse e não o outro: ____________________
+- Tipo: «include» 
+- Entre: Emprestar livro e Consultar acervo
+- Por que é esse e não o outro: Para emprestar um livro, primeiro tem que saber se ele está ou não no acervo.
 
 ## Autoavaliação
 
-**Conceito pretendido:** ___ (A / B / C)
+**Conceito pretendido:** A
 
 - Conversei sobre esta atividade com: ninguém
-- Esteira da análise: ______ (diga onde)
-- Diagrama e notação: ______
-- Rastreabilidade: ______
-- Organização da entrega: ______
+- Esteira da análise: ## Caminho completo (Linha 27)
+- Diagrama e notação: [Atividade-17/Bibliotech.drawio.png]( Atividade-17/Bibliotech.drawio.png)
+- Rastreabilidade: ## Rastreabilidade (linha 19)
+- Organização da entrega: ...
