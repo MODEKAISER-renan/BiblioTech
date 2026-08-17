@@ -24,8 +24,11 @@
 | Cadastrar livro | RF02 | 2.1 |
 |---|---|---|
 
+## Caminho completo
 |Fala do cliente| Historia de Usuario | RF | caso de uso |
-|---|---|---|
+|---|---|---|---|
+|1.1|1.2|1.3|1.4|
+|2.1|2.2|2.3|2.4|
 
 <!-- Nível A: conte o caminho completo de cada funcionalidade,
      da fala do cliente até o que está desenhado no diagrama. -->
