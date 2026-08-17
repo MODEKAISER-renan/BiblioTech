@@ -20,8 +20,12 @@
 
 | Elipse no diagrama | Veio do requisito | Que veio da fala |
 |---|---|---|
-| | RF01 | "..." |
-| | RF02 | "..." |
+| Emprestar livro | RF01 | 1.1 |
+| Cadastrar livro | RF02 | 2.1 |
+|---|---|---|
+
+|Fala do cliente| Historia de Usuario | RF | caso de uso |
+|---|---|---|
 
 <!-- Nível A: conte o caminho completo de cada funcionalidade,
      da fala do cliente até o que está desenhado no diagrama. -->
