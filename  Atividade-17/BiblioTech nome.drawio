@@ -1,0 +1,100 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="a-JUOAb6aA74atN8W9NC">
+    <mxGraphModel dx="1012" dy="516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8RAklYz5VJc9_EAVga5a-13" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="100" y="200" />
+              <mxPoint x="100" y="140" />
+              <mxPoint x="30" y="140" />
+              <mxPoint x="30" y="80" />
+            </Array>
+            <mxPoint x="125" y="200" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VuxDAWGMtCFIsrj5xMGh-1" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=160;" value="BiblioTech" vertex="1">
+          <mxGeometry height="240" width="460" x="170" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="VuxDAWGMtCFIsrj5xMGh-14" edge="1" parent="VuxDAWGMtCFIsrj5xMGh-1" source="VuxDAWGMtCFIsrj5xMGh-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=open;endFill=0;" target="VuxDAWGMtCFIsrj5xMGh-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VuxDAWGMtCFIsrj5xMGh-16" connectable="0" parent="VuxDAWGMtCFIsrj5xMGh-14" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&amp;lt;Include&amp;gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.2342" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VuxDAWGMtCFIsrj5xMGh-3" parent="VuxDAWGMtCFIsrj5xMGh-1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Emprestar Livro" vertex="1">
+          <mxGeometry height="80" width="120" x="90" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VuxDAWGMtCFIsrj5xMGh-7" parent="VuxDAWGMtCFIsrj5xMGh-1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Cadastrar Livro" vertex="1">
+          <mxGeometry height="80" width="120" x="90" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="VuxDAWGMtCFIsrj5xMGh-11" parent="VuxDAWGMtCFIsrj5xMGh-1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Consultar acervo" vertex="1">
+          <mxGeometry height="80" width="120" x="320" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VuxDAWGMtCFIsrj5xMGh-4" edge="1" parent="1" source="VuxDAWGMtCFIsrj5xMGh-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="VuxDAWGMtCFIsrj5xMGh-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="689.8823529411766" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VuxDAWGMtCFIsrj5xMGh-2" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="leitor" vertex="1">
+          <mxGeometry height="60" width="30" x="80" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="VuxDAWGMtCFIsrj5xMGh-9" edge="1" parent="1" source="VuxDAWGMtCFIsrj5xMGh-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="VuxDAWGMtCFIsrj5xMGh-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VuxDAWGMtCFIsrj5xMGh-5" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Bibliotecario" vertex="1">
+          <mxGeometry height="60" width="30" x="80" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="VuxDAWGMtCFIsrj5xMGh-17" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="1090" />
+              <mxPoint x="200" y="1030" />
+              <mxPoint x="130" y="1030" />
+              <mxPoint x="130" y="970" />
+            </Array>
+            <mxPoint x="225" y="1090" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VuxDAWGMtCFIsrj5xMGh-18" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=160;" value="Diagram Heading" vertex="1">
+          <mxGeometry height="240" width="460" x="270" y="1500" as="geometry" />
+        </mxCell>
+        <mxCell id="VuxDAWGMtCFIsrj5xMGh-19" edge="1" parent="VuxDAWGMtCFIsrj5xMGh-18" source="VuxDAWGMtCFIsrj5xMGh-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=open;endFill=0;" target="VuxDAWGMtCFIsrj5xMGh-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VuxDAWGMtCFIsrj5xMGh-20" connectable="0" parent="VuxDAWGMtCFIsrj5xMGh-19" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&amp;lt;Include&amp;gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.2342" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VuxDAWGMtCFIsrj5xMGh-21" parent="VuxDAWGMtCFIsrj5xMGh-18" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Emprestar Livro" vertex="1">
+          <mxGeometry height="80" width="120" x="90" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VuxDAWGMtCFIsrj5xMGh-22" parent="VuxDAWGMtCFIsrj5xMGh-18" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Cadastrar Livro" vertex="1">
+          <mxGeometry height="80" width="120" x="90" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="VuxDAWGMtCFIsrj5xMGh-23" parent="VuxDAWGMtCFIsrj5xMGh-18" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Consultar acervo" vertex="1">
+          <mxGeometry height="80" width="120" x="320" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VuxDAWGMtCFIsrj5xMGh-24" edge="1" parent="1" source="VuxDAWGMtCFIsrj5xMGh-25" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="VuxDAWGMtCFIsrj5xMGh-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="1579.8823529411766" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VuxDAWGMtCFIsrj5xMGh-25" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="leitor" vertex="1">
+          <mxGeometry height="60" width="30" x="180" y="1560" as="geometry" />
+        </mxCell>
+        <mxCell id="VuxDAWGMtCFIsrj5xMGh-26" edge="1" parent="1" source="VuxDAWGMtCFIsrj5xMGh-27" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="VuxDAWGMtCFIsrj5xMGh-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VuxDAWGMtCFIsrj5xMGh-27" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Bibliotecario" vertex="1">
+          <mxGeometry height="60" width="30" x="180" y="1650" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
